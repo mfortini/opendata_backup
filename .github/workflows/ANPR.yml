@@ -45,4 +45,4 @@ jobs:
           # Stage the file, commit and push
           git add ANPR/AnprStatsWeb
           git commit -m "AnprStatsWeb update"
-          git push origin master
+          git push origin main
