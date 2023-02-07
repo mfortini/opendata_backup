@@ -118,10 +118,11 @@ body{--wp--preset--color--black: #000;--wp--preset--color--cyan-bluish-gray: #ab
     });
 
 </script>
+    <script>var TRADS14 = "Apre una nuova finestra";</script>
 </head>
 
 <body >
-    <a class="visually-hidden" href="#main" aria-label="link a contenuto principale">Vai al contenuto principale</a>
+    <a class="visually-hidden" href="#main">Vai al contenuto principale</a>
     <header aria-label="Funzioni di servizio">
         <div class="header-top-light">
             <div class="container px-custom py-2">
