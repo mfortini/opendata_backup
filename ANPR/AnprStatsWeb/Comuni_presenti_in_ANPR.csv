@@ -213,12 +213,13 @@ body{--wp--preset--color--black: #000;--wp--preset--color--cyan-bluish-gray: #ab
 <li  id="menu-item-265" class="nav-item dropdown"><a href="/servizi-anagrafici/certificati/" class="nav-link dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false"> Certificati</a></li>
 <li  id="menu-item-267" class="nav-item dropdown"><a href="/servizi-anagrafici/rettifica-dati/" class="nav-link dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false"> Rettifica dati</a></li>
 <li  id="menu-item-268" class="nav-item dropdown"><a href="/servizi-anagrafici/cambio-di-residenza/" class="nav-link dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false"> Cambio di residenza</a></li>
+<li  id="menu-item-6264" class="nav-item dropdown"><a href="/servizi-anagrafici/domicilio-digitale/" class="nav-link dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false"> Domicilio digitale</a></li>
 <li  id="menu-item-379" class="nav-item dropdown"><a href="/servizi-anagrafici/" class="nav-link dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false"> Scopri i servizi anagrafici</a></li>
 </ul>
 </li>
 <li  id="menu-item-227" class="nav-item dropdown"><a href="/area-tecnica/" class="nav-link dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false"> Area tecnica</a>
 <ul class="dropdown-menu">
-<li  id="menu-item-272" class="nav-item dropdown"><a href="/area-tecnica/accesso-ai-dati/" class="nav-link dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false"> Accesso ai dati dell&#8217;ANPR</a></li>
+<li  id="menu-item-272" class="nav-item dropdown"><a href="/area-tecnica/accesso-ai-dati/" class="nav-link dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false"> Accesso ai dati dell’ANPR</a></li>
 <li  id="menu-item-274" class="nav-item dropdown"><a href="/area-tecnica/formazione/" class="nav-link dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false"> Formazione</a></li>
 <li  id="menu-item-276" class="nav-item dropdown"><a href="/area-tecnica/documentazione-tecnica/" class="nav-link dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false"> Documentazione tecnica</a></li>
 <li  id="menu-item-277" class="nav-item dropdown"><a href="/area-tecnica/tabelle-di-decodifica/" class="nav-link dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false"> Tabelle di decodifica</a></li>
